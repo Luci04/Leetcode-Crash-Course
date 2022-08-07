@@ -5,7 +5,7 @@ Your Status can be: **Done ✅ | Skipped❌**
 
 > **Problems Day 1**
 
-| Problem Link | Anshuan | Avinash |
+| Problem Link | Anshuman | Avinash |
 | ------ | ------ | ------ |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
