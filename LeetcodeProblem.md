@@ -18,8 +18,15 @@ Your Status can be: **Done ✅ | Skipped❌**
 | [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) | |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) | |  |
 
+<br>
 
+> **Problems Day 1**
 
+| Problem Link | Anshuman | Avinash |
+| ------ | ------ | ------ |
+| [Unique Paths](https://leetcode.com/problems/unique-paths/)  |  |  
+| [reverse Nodes in K Groups](4.https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
+| [Word Break](https://leetcode.com/problems/word-break/)  |  |  |
 
 ## Contribute
 
